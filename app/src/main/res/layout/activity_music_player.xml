@@ -16,7 +16,7 @@
         android:ellipsize="marquee"
         android:padding="40dp"
         android:singleLine="true"
-        android:text="@string/title_of_the_song"
+        android:text="@string/title_of_the_song1"
         android:textColor="@color/white"
         android:textSize="20sp" />
 
